@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/marvall/filmoteka/issues"
   },
-  "homepage": "https://marvall.github.io/filmoteka",
+  "homepage": "https://olenatsemko.github.io/filmoteka",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
